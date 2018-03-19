@@ -1,4 +1,4 @@
-# Manifest
+# Manifesto
 
 Packetbroker.org is an independent and neutral organisation running a broker for Internet of Things packets. Open IoT allows messages from devices that are connected to certain networks to arrive a different network. Packetbroker.org provides a platform for IoT operators to exchange this data for greater network efficiency.
 
