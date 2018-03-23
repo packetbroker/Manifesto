@@ -11,4 +11,4 @@ The following principles apply. Packet Broker is:
 
 ## Sustainabillity
 
-Business models concerning the key exchange are done out of band in a bilateral way. Overhead costs are covered by a subscription fee sponsored by all participants. Packet Proker will provide for key exchange reference implementations only.
+Business models concerning the key exchange are done out of band in a bilateral or cooperative way. Overhead costs for Packet Broker are covered by a subscription fee sponsored by all participants. Packet Proker will provide for key exchange reference implementations only.
