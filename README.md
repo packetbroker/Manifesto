@@ -6,9 +6,9 @@ The following principles apply. Packet Broker is:
 
 * Independent and not for profit - The sole purpose is to facilitate the routing of encrypted IoT data.
 * IoT technology agnostic - Independent of RF technology the broker is able to route data. 
-* Democratic governance - Members are able to vote on the direction of the organization and design of the packet broker
+* Democratic governance - Members are able to vote on the direction of the organization and design of the Packet Broker
 * No key exchange - The focus is on packet routing; business models, roaming or paid peering agreements to exchange keys are out of scope for the organization. Routing journals are provided to build bilateral business agreements.
 
-## Sustainabillity
+## Sustainability
 
-Business models concerning the key exchange are done out of band in a bilateral or cooperative way. Overhead costs for Packet Broker are covered by a subscription fee sponsored by all participants. Packet Proker will provide for key exchange reference implementations only.
+Business models concerning the key exchange are done out of band in a bilateral or cooperative way. Overhead costs for Packet Broker are covered by a subscription fee sponsored by all participants. Packet Broker will provide for key exchange reference implementations only.
